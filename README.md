@@ -1,7 +1,5 @@
 # Aeropuerto Customs Control Simulator
 
-![Aeropuerto Logo](https://example.com/aeropuerto-logo.png)
-
 Este repositorio contiene el código fuente de un programa en C++ que simula el funcionamiento del control de aduanas en un aeropuerto. El programa utiliza estructuras de datos como colas, pilas, listas y árboles binarios para gestionar el flujo de pasajeros y la inspección de sus pertenencias en la aduana.
 
 ## Descripción del Proyecto
