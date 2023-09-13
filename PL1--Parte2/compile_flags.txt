@@ -1,0 +1,10 @@
+-IC:\mingw\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++
+-IC:\mingw\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\x86_64-w64-mingw32
+-IC:\mingw\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\backward
+-IC:\mingw\lib\gcc\x86_64-w64-mingw32\5.1.0\include
+-IC:\mingw\include
+-IC:\mingw\lib\gcc\x86_64-w64-mingw32\5.1.0\include-fixed
+-IC:\mingw\x86_64-w64-mingw32\include
+-IC:\Users\marco\Desktop\PL2-final\PL1--Parte2\PL1--Parte2
+-target
+x86_64-pc-windows-gnu

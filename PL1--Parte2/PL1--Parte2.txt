@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/box.cpp.o ./Debug/cola.cpp.o ./Debug/pasajero.cpp.o ./Debug/pila.cpp.o ./Debug/lista.cpp.o ./Debug/Arbol.cpp.o ./Debug/nodoArbol.cpp.o ./Debug/nodoLista.cpp.o ./Debug/nodoPila.cpp.o ./Debug/nodoCola.cpp.o   
